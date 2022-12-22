@@ -6,7 +6,7 @@ WHEN I click the button to generate a password
 THEN I am presented with a series of prompts for password criteria
 
 WHEN prompted for password criteria
-THEN I select which criteria to include in the password
+THEN okI select which criteria to include in the password
 
 WHEN prompted for the length of the password
 THEN I choose a length of at least 8 characters and no more than 128 characters
