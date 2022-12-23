@@ -1,24 +1,9 @@
-# 03-password-generator-of-the-generation
+# <The Password Generator of the Generation!>
 
+## Description
 
-GIVEN I need a new, secure password
-WHEN I click the button to generate a password
-THEN I am presented with a series of prompts for password criteria
+For anyone who is tired of getting creative to make a new password, look no further! This password generator will take the stress away by generating a password based on the criteria you provide it. While this week three challenge was certainly challenging, with the help of classmates, tutors, instructors and AskBCS, I was able to work my way through using loops and functions for the first time. The hardest part about this challenge was figuring out how all the different tools we've learned fit together, but in the end I'm proud of my solution!
 
-WHEN prompted for password criteria
-THEN okI select which criteria to include in the password
+## Usage
 
-WHEN prompted for the length of the password
-THEN I choose a length of at least 8 characters and no more than 128 characters
-
-WHEN asked for character types to include in the password
-THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters
-
-WHEN I answer each prompt
-THEN my input should be validated and at least one character type should be selected
-
-WHEN all prompts are answered
-THEN a password is generated that matches the selected criteria
-
-WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
+Check out this screenshot [screenshot of how password generator works](images/screenshot-of-password-generator-challenge.png) to see how to utilize this application to create a random password.
